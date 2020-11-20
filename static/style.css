@@ -1,0 +1,12 @@
+.button {
+    background-color: black;
+}
+
+.button i {
+    color: #FFFFFF;
+}
+
+.button button {
+    background-color: transparent;
+    border-style: none;
+}
