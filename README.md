@@ -1,9 +1,9 @@
 # video-player-jslib
-Видео плеер с минимальными настройками. [Исходники самого плеера](https://github.com/devmanorg/video-player-jslib)
-[Плеер можно посмотреть тут](https://herypank.github.io/video-player-jslib)
+Видео плеер с минимальными настройками. [Исходники самого плеера](https://github.com/devmanorg/video-player-jslib).   
+[Плеер можно посмотреть тут](https://herypank.github.io/video-player-jslib).
 
 
-![](https://i.imgur.com/ffOu68d.png)
+![](https://i.imgur.com/ffOu68d.png)   
 
 
 ## Подготовка к запуску Mac OS
