@@ -4,12 +4,12 @@
 
 }
 
-.player-buttons-wrapper i {
+.player-button i {
     color: #FFFFFF;
     
 }
 
-.player-buttons-wrapper button {
+.player-button {
     background-color: transparent;
     border-style: none;
     font-size: 4;
