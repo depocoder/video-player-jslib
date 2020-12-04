@@ -17,7 +17,7 @@
     margin: 5px;
 }
 
-#player {
+.player {
     display: flex;
     flex-flow: column wrap;
     box-shadow: 0 0 20px rgba(0,0,0,1);
