@@ -23,12 +23,12 @@
     box-shadow: 0 0 20px rgba(0,0,0,1);
 }
 
-.js-video-container{
+.video-container{
     flex-grow: 1;
     
 }
 
-.js-fullscreen-button{
+.fullscreen-button{
     justify-content: flex-end;
 }
 
