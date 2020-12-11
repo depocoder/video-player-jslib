@@ -12,7 +12,13 @@
 .player-button {
     background-color: transparent;
     border-style: none;
-    font-size: 14pt;
+    font-size: 15pt;
+}
+.player-buttons-wrapper > button{
+    margin-right: 4px;
+    margin-top: 9px;
+    margin-bottom: 9px;
+    margin-left: 4px;
 }
 
 .player {
