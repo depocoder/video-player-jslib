@@ -64,9 +64,16 @@
     border-color: white;
     align-items: center;
     margin-top: -4px;
+    opacity: 0;
     margin-left: -6px;
+    transition-duration: 500ms;
   }
 
+.player-buttons-wrapper:hover .dot{
+    opacity: 1;
+    transition-duration: 500ms;
+
+}
 .progress-bar{
     height: 100%;
     border-radius: 25px;
