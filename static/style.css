@@ -1,14 +1,18 @@
 .player-buttons-wrapper {
     background-color: black;
     display: flex;
-
+    min-height: 42px;
 }
 
 .player-button i {
     color: #FFFFFF;
     
 }
-
+.player-buttons-wrapper{
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+}
 .player-button {
     background-color: transparent;
     border-style: none;
@@ -16,11 +20,15 @@
 }
 .player-buttons-wrapper > button{
     margin-right: 4px;
-    margin-top: 9px;
-    margin-bottom: 9px;
     margin-left: 4px;
+    margin-top: -2px;    
 }
 
+.player-time{
+    color: #FFFFFF;
+    margin-top: -2px;
+    font-family: 'Roboto', sans-serif;
+}
 .player {
     display: flex;
     flex-flow: column wrap;
@@ -38,4 +46,30 @@
 
 .namespaces-button{
     flex-grow: 1;
+    height: 10%;
+    border-radius: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+
+}
+
+.dot {
+    height: 7px;
+    width: 7px;
+    border-width: 3px;
+    background-color: red;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: white;
+    align-items: center;
+    margin-top: -4px;
+    margin-left: -6px;
+  }
+
+.progress-bar{
+    height: 100%;
+    border-radius: 25px;
+    display: flex;
+
 }
