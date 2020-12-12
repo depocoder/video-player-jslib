@@ -3,7 +3,7 @@
 [Плеер можно посмотреть тут](https://herypank.github.io/video-player-jslib).
 
 
-![](https://i.imgur.com/ffOu68d.png)   
+![](https://i.imgur.com/tU4jx7Z.png)   
 
 
 ## Подготовка к запуску Mac OS
